@@ -23,7 +23,7 @@ Observation:
 
 * FTP → vsftpd 2.3.4
 * SSH → OpenSSH
-* SMB → Samba 3.0.20
+* SMB → Samba 3.X - 4.x
 
 The FTP service is known to be vulnerable, but exploitation failed.
 Therefore, we moved to analyze SMB.
