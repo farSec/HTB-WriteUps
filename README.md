@@ -6,7 +6,7 @@ This repository contains my Hack The Box machine writeups, focusing on methodolo
 
 | Machine | Difficulty | Skills   | Link               |
 | ------- | ---------- | -------- | ------------------ |
-| Lame    | Easy       | SMB, RCE | [Writeup](./lame/README.md) |
+| Lame    | Easy       | SMB, RCE | [Writeup](./lame) |
 
 ## Methodology
 
