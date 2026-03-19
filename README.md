@@ -4,15 +4,16 @@ This repository contains my Hack The Box machine writeups, focusing on methodolo
 
 ## Machines
 
-| Machine | Difficulty | Skills   | Link               |
-| ------- | ---------- | -------- | ------------------ |
-| Lame    | Easy       | SMB, RCE | [Writeup](./lame) |
+| Machine | Difficulty | Skills                         | Link                 |
+| ------- | ---------- | ------------------------------ | -------------------- |
+| Lame    | Easy       | SMB, RCE                       | [Writeup](./lame/)   |
+| Bashed  | Easy       | Web, RCE, Privilege Escalation | [Writeup](./bashed/) |
 
 ## Methodology
 
 Each writeup follows a structured approach:
 
-* Reconnaissance (Nmap, service enumeration)
+* Reconnaissance
 * Service analysis and vulnerability identification
 * Exploitation
 * Privilege escalation
